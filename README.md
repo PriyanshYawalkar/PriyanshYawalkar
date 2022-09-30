@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Priyansh Yawalkar an full-stack Developer 
-who can work with HTML , CSS , JS , PYTHON , SQL , REACT , NEXT.JS
+who can work with HTML , CSS , JS , PYTHON , SQL , REACT & NEXT.JS
 
 
 <div id="badges" align="center">
