@@ -19,7 +19,7 @@ who can work with HTML , CSS , JS , PYTHON , SQL , REACT & NEXT.JS
      
 
 
-Here are some ideas to get you started:
+Here are some of the things about me :-
 
 - 🔭 I’m currently working on a project based on A.I.
 - 🌱 I’m currently doing B.Tech (CSE)
