@@ -30,14 +30,13 @@
 
 Here are some of the things about me :-
 
-- 🔭 I’m currently working on a project based on A.I.
+- 🔭 I’m currently working on a project based on Web3.
 - 🌱 I’m currently doing B.Tech (CSE)
-- 🤔 I’m looking for help with the person who knows about AI
 - 📫 How to reach me: above given my twitter , linkedin and yt links follow that
 - ⚡ Fun fact: I am a lazy Programmer
 
 
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshyawalkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
