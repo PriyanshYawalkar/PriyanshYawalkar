@@ -49,4 +49,3 @@ Here are some of the things about me :-
 ![Priyansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshyawalkar&show_icons=true&theme=dark)
 
 
-![priyansh yawalkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh yawalkar&theme=vue-dark&hide_border=true)
