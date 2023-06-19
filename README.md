@@ -43,7 +43,7 @@ Postman Student Expert.
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=priyanshyawalkar&theme=algolia&background=0d1117&hide_border=true" />
-  <a href="https://github.com/priyanshyawalkar/github-readme-activity-graph"><img height="280em" alt="priyansh's's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshyawalkar&theme=algolia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>	
+	
 </div>
 
 
