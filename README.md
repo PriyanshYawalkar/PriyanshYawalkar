@@ -28,7 +28,7 @@
 -->
 
 <div align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_3rwasyjy.json" width="600" height="300"/>
+  <img src="https://lottiefiles.com/95348-coding-boy" width="600" height="300"/>
 </div>
 
 
