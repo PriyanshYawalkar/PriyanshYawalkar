@@ -1,9 +1,6 @@
 <div id="header" align="center">
-        <iframe src="https://embed.lottiefiles.com/animation/112681"></iframe>
-        <!--
-        <img src="https://assets4.lottiefiles.com/packages/lf20_az5zsd0q.json" width="100"/>
-        -->
-      </div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
         <a href="#">
