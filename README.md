@@ -20,7 +20,7 @@
 
 ##  Community Experiences
 
-Postman Student Expert.
+ Building DevBridge community & Postman Student Expert.
 
 
 ## Connect with me:
