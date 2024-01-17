@@ -20,7 +20,7 @@
 
 ##  Community Experiences
 
- Building DevBridge community & Postman Student Expert.
+ Building DevBridge community, Logistics Lead at GDSC-SSTC & Postman Student Expert.
 
 
 ## Connect with me:
