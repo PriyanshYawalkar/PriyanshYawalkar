@@ -28,7 +28,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-priyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshyawalkar/)](https://www.linkedin.com/in/priyanshyawalkar/)
 [![Instagram Badge](https://img.shields.io/badge/-curious_priyansh-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/curious_priyansh/)](https://instagram.com/curious_priyansh)
-[![Gmail Badge](https://img.shields.io/badge/-workwithpriyansh03@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithpriyansh03@gmail.com)](mailto:workwithpriyansh03@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-workwithpriyansh03@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yawalkarpriyansh@gmail.com)](mailto:yawalkarpriyansh@gmail.com)
 
 </p>
 
