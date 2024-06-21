@@ -14,13 +14,13 @@
 
 ## Some facts about me
 - 🔭 I’m currently working on **Open-source contributions and Community Building**
-- 🌱 I’m currently learning **Web Development.**
-- 💬 Ask me about ** Web Development.**
-- ⚡ Fun fact **I am most techie guy you will ever find.**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Development & Security.**
+- ⚡ Fun fact **I am the most techie guy you will ever find.**
 
 ##  Community Experiences
 
- Building DevBridge community, Logistics Lead at GDSC-SSTC & Postman Student Expert.
+ Building **DevBridge community**, **Logistics Lead at GDSC-SSTC** & **Postman Student Expert.**
 
 
 ## Connect with me:
