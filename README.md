@@ -1,7 +1,6 @@
 <h1 align="center">Hey everyone, I'm Priyansh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src = "https://github.com/priyanshyawalkar/priyanshyawalkar/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/priyanshyawalkar/priyanshyawalkar/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
 
 <ul>
   <li><b>👤 Name: </b> Priyansh Yawalkar</li>
@@ -26,7 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-priyansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyanshyawalkar/)](https://www.linkedin.com/in/priyanshyawalkar/)
 [![Instagram Badge](https://img.shields.io/badge/-curious_priyansh-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/curious_priyansh/)](https://instagram.com/curious_priyansh)
-[![Gmail Badge](https://img.shields.io/badge/-yawalkarpriyansh@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yawalkarpriyansh@gmail.com)](mailto:yawalkarpriyansh@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-yawalkarpriyansh@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yawalkarpriyansh@gmail.com)](E-mail)
 
 </p>
 
