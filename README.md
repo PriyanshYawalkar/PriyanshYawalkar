@@ -11,13 +11,13 @@
 
 ## Some facts about me
 - 🔭 I’m currently working on **Open-source contributions, Community Building and DNF**
-- 🌱 I’m currently learning **C|HFI**
+- 🌱 I’m currently learning for **OSCP**
 - 💬 Ask me about **Development & Security.**
-- You can also ask me if you are interested in pen-testing.
+- You can also ask me if you are interested in security.
 
 ##  Community Experiences
 
- Building **DevBridge community**, **Tech Lead at GDG-SSTC** & **Postman Student Expert.**
+ Building **Ex-Tech Lead at GDG-SSTC** & **Postman Student Expert.**
 
 
 ## Connect with me:
