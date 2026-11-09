@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any security project**
 
-- 👨‍💻 Checkout my portfolio [priyanshy](priyanshy.vercel.app)
+- 👨‍💻 Checkout my portfolio [priyanshy](https://priyanshy.vercel.app/)
 
 - 💬 Ask me about **pentesting and DNF**
 
